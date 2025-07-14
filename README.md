@@ -17,7 +17,9 @@ To analyze and interpret video game sales data in order to uncover trends, perfo
 # DATA CLEANING:
 
 ## TASK 1: 
-## Checking null values from row and columns:
+## <p align="center">
+  CHECKING NULL VALUES FROM ROW AND COLUMNS
+</p>
 <img width="1473" height="716" alt="task 1" src="https://github.com/user-attachments/assets/9f850545-1c88-4b62-9a51-7567a2421986" />
 
 ## TASK 2:
