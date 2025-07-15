@@ -21,13 +21,13 @@ To analyze and interpret video game sales data in order to uncover trends, perfo
 <img width="1473" height="716" alt="task 1" src="https://github.com/user-attachments/assets/9f850545-1c88-4b62-9a51-7567a2421986" />
 
 ## TASK 2:
-## Removing null values and checking data types:
+## REMOVING NULL VALUES AND CHECKING DATA TYPES:
 <img width="1485" height="666" alt="task 2" src="https://github.com/user-attachments/assets/075a9ff3-21c7-4c89-8749-d025844e9569" />
 
 # DATA VISUALIZATION:
 
 ## TASK 1:
-## Top 5 game genres by total sales:
+## TOP 5 GAMES GNERE BY TOTAL SALES:
 <img width="1222" height="658" alt="TASK 1" src="https://github.com/user-attachments/assets/5b9daa24-9e07-442c-a880-8fcd0c8e2399" />
 
 
