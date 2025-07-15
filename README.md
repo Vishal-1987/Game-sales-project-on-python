@@ -50,8 +50,7 @@ To analyze and interpret video game sales data in order to uncover trends, perfo
 ## RELATION BETWEEN PRICE AND UNITS SOLD:
 <img width="722" height="548" alt="task 6" src="https://github.com/user-attachments/assets/735f163d-a0e4-40c5-ae22-3f9b8f52e191" />
 
-
-
-
+# SUMMARY:
+Utilized Python (Pandas, NumPy, Matplotlib, Seaborn) to analyze global video game sales data. Conducted exploratory data analysis (EDA) to identify top-selling genres, regional sales patterns, pricing impact on sales, and developer performance. Created insightful visualizations including bar charts, line plots, scatter plots, pie charts, box plots, and heatmaps to communicate key trends and correlations. Improved data storytelling by labeling plots, customizing axes, and highlighting key findings.
 
 
