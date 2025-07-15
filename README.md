@@ -30,5 +30,28 @@ To analyze and interpret video game sales data in order to uncover trends, perfo
 ## TOP 5 GAMES GNERE BY TOTAL SALES:
 <img width="1222" height="658" alt="TASK 1" src="https://github.com/user-attachments/assets/5b9daa24-9e07-442c-a880-8fcd0c8e2399" />
 
+## TASK 2: 
+## TOTAL REVENUE BY SALES REGION:
+<img width="1037" height="648" alt="task 2" src="https://github.com/user-attachments/assets/9c5b68d8-2d5c-4897-9af2-12519f16fd0c" />
+
+## TASK 3:
+## SALE TRENDS OVER RELEASE DATE:
+<img width="1070" height="671" alt="task 3" src="https://github.com/user-attachments/assets/d478d288-5d77-43cf-b3ad-6bd322645616" />
+
+## TASK 4:
+## CORRELATION BETWEEN PRICE,UNITS SOLD,REVENUE:
+<img width="672" height="557" alt="task 4" src="https://github.com/user-attachments/assets/9d03cc72-3dcd-4844-a3de-d9e828bb9636" />
+
+## TASK 5:
+## PLATFORM WISE NUMBER OF GAMES RELEASED:
+<img width="632" height="446" alt="task 5" src="https://github.com/user-attachments/assets/fb99ee81-2809-43a5-8d03-0106dede17c9" />
+
+## TASK 6:
+## RELATION BETWEEN PRICE AND UNITS SOLD:
+<img width="722" height="548" alt="task 6" src="https://github.com/user-attachments/assets/735f163d-a0e4-40c5-ae22-3f9b8f52e191" />
+
+
+
+
 
 
